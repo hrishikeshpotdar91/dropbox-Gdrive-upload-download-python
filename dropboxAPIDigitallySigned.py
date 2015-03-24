@@ -1,7 +1,3 @@
-# Hrishikesh Potdar
-# Student ID 1001048659
-# Course CSE 6331 
-
 
 # Include the Dropbox SDK
 import dropbox
