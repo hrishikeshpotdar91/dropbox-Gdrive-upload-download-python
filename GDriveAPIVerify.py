@@ -1,8 +1,4 @@
-# Hrishikesh Potdar
-# Student ID 1001048659
-# Course CSE 6331 
 
-#BONUS PROJECT
 
 import httplib2
 import pprint
